@@ -175,7 +175,7 @@ const Topbar = () => {
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Sreenivasan</span>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Swathi Ravi</span>
                                 <img class="img-profile rounded-circle"
                                     src="https://thumbs.dreamstime.com/z/guest-avatar-vector-illustration-default-male-profile-icon-image-profile-guest-avatar-vector-illustration-default-male-profile-182095612.jpg"/>
                             </a>
